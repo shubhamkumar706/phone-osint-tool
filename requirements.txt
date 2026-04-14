@@ -3,3 +3,4 @@ requests==2.31.0
 phonenumbers==8.13.0
 folium==0.15.1
 user-agents==2.2.0
+gunicorn==21.2.0
